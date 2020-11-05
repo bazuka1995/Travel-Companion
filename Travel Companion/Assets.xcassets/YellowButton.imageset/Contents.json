@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "YellowButton.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
